@@ -2,6 +2,7 @@
   "name": "spooky",
   "version": "1.0.0",
   "description": "",
+  "homepage": "https://nishkalkashyap.github.io/spooky",
   "main": "index.js",
   "dependencies": {},
   "devDependencies": {
