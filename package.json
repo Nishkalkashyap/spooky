@@ -1,0 +1,16 @@
+{
+  "name": "spooky",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "vuepress": "^0.14.11"
+  },
+  "scripts": {
+    "start": "vuepress dev -p 80",
+    "build": "vuepress build"
+  },
+  "author": "",
+  "license": "MIT"
+}
