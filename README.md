@@ -6,14 +6,11 @@ tagline: Website for spookyy!!
 # actionText: View Notes →
 # actionLink: /snippets/
 features:
-- title: Web Technologies
-  details: Quark uses Electron.js and Node.js so you can build your app with HTML, CSS, and JavaScript.
-- title: Simplicity
-  details: Quark is built with simplicity in mind, so that creating projects with Quark is enjoyable, easy to learn, and accessible to just about anyone with basic programming skills
-- title: Cross Platform
-  details: Compatible with Mac, Windows, and Linux, Quark projects run on all three platforms.
+- title: Home Automation
+  details: Full home automation in 10 years.
+- title: AI Singularity
+  details: We'll achieve AI singularity in next 15 years.
+- title: Not dying
+  details: If you don't die in next 15 years due to, let's say car accident, you'll probably never die!!!!
 footer: MIT Licensed | Copyright © 2019-present Nishkal Kashyap
 ---
-
-### Build Status
-[![Build Status](https://travis-ci.org/Nishkalkashyap/spooky.svg?branch=master)](https://travis-ci.org/Nishkalkashyap/notes)
