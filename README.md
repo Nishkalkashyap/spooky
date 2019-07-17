@@ -1,10 +1,10 @@
 ---
 home: true
-heroImage: /images/icon-svg.svg
+heroImage: /images/logo.svg
 heroText: Spookyyy
 tagline: Website for spookyy!!
-actionText: View Notes →
-actionLink: /snippets/
+# actionText: View Notes →
+# actionLink: /snippets/
 features:
 - title: Web Technologies
   details: Quark uses Electron.js and Node.js so you can build your app with HTML, CSS, and JavaScript.
